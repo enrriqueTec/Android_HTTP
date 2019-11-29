@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Android_HTTP</string>
+
+    <string name="btn_altas">ALTAS</string>
+    <string name="btn_consultas">CONSULTAS</string>
+    <string name="btn_bajas">BAJAS</string>
+    <string name="btn_cambios">CAMBIOS</string>
+
+    <string name="hint_numero_control">Numero de control</string>
+    <string name="hint_nombre_alumno">Nombre alumno</string>
+    <string name="hint_primer_ap">Primer Ap.</string>
+    <string name="hint_segundo_ap">Segundo Ap.</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_semestre">Semestre</string>
+    <string name="hint_carrera">Carrera</string>
+
+    <string name="txt_btn_agregar">AGREGAR</string>
+    <string name="txt_btn_cambiar">CAMBIAR</string>
+    <string name="txt_btn_consultar">CONSULTAR</string>
+    <string name="txt_btn_eliminar">ELIMINAR</string>
+
+    <string-array name="Carreras">
+        <item>3</item>
+        <item>sistemas</item>
+        <item>mecatronica</item>
+        <item>alimentarias</item>
+        <item>contadoro</item>
+        <item>administracion</item>
+        </string-array>
+</resources>
